@@ -7,6 +7,6 @@ Hello Everypony 🐎
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KingSit3&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KingSit3&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingSit3&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingSit3&layout=donut&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <!-- Surely I'm create this using GPRM ( https://gprm.itsvg.in ) -->
